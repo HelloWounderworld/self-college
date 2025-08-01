@@ -10,78 +10,81 @@ A auto-faculdade está organizada por **anos acadêmicos** (com dois semestres c
 
 ---
 
-## 🗓️ 1º Ano – Fundamentos do Pensamento Científico e Lógico
-
-### 1º Semestre
-- Introdução à Filosofia e Epistemologia
-- Lógica Formal e Argumentação
-- Álgebra e Geometria Analítica
-- Leitura crítica: textos clássicos e científicos
-
-### 2º Semestre
-- Introdução à Programação (Python)
-- Estatística e Probabilidade Básica
-- História da Ciência
-- Projeto: Redação de um mini-ensaio científico
+## 📆 Segundo Semestre de 2025
 
 ---
 
-## 🗓️ 2º Ano – Ciência de Dados, Matemática e Pensamento Computacional
+### 🔄 Feedback do semestre anterior
 
-### 1º Semestre
-- Cálculo Diferencial e Integral
-- Estruturas de Dados e Algoritmos
-- Inferência Estatística
-- Ética na Tecnologia
+O primeiro semestre de 2025 trouxe aprendizados importantes, especialmente no desenvolvimento da autodisciplina e na organização dos materiais de estudo. 
 
-### 2º Semestre
-- Álgebra Linear
-- Machine Learning: Fundamentos
-- Visualização de Dados
-- Projeto: Análise de dados com Python
+✅ Pontos positivos:
+- Melhoria na constância dos estudos.
+- Progresso sólido em fundamentos matemáticos e programação.
+
+⚠️ Pontos a melhorar:
+- Melhor equilíbrio entre teoria e prática.
+- Planejamento semanal mais claro e adaptável.
 
 ---
 
-## 🗓️ 3º Ano – Especialização e Interdisciplinaridade
+### 🎯 O que eu gostaria de atingir nesse semestre
 
-### 1º Semestre
-- Inteligência Artificial Aplicada
-- Sistemas Complexos
-- Neurociência Cognitiva (introdutório)
-- Projeto: Construção de um agente inteligente simples
-
-### 2º Semestre
-- Filosofia da Mente
-- Aprendizado Profundo (Deep Learning)
-- Fundamentos de Economia ou Blockchain
-- Projeto: Mini-artigo interdisciplinar
+- Aprofundar o conhecimento em redes neurais e neurociência.
+- Consolidar o hábito de escrita acadêmica/reflexiva.
+- Integrar os estudos teóricos com projetos práticos.
+- Criar um repositório organizado com anotações e códigos.
 
 ---
 
-## 🗓️ 4º Ano – Pesquisa, Impacto e Produção de Conhecimento
+### 📚 Conteúdos que irei estudar nesse semestre
 
-### 1º Semestre
-- Metodologia Científica
-- Tópicos Avançados da Área de Interesse (escolha livre)
-- Escrita Científica
-- Projeto: Planejamento de monografia ou artigo
+#### 1. Neurociência e Genética do Aprendizado
+- Fatores genéticos e ambientais na aprendizagem.
+- Plasticidade cerebral, memória e cognição.
+- Referências: vídeos do Eslen Delanogare, artigos científicos recentes.
 
-### 2º Semestre
-- Trabalho de Conclusão de Curso (TCC autodidata)
-- Apresentação pública (blog, canal, artigo ou vídeo)
-- Reflexão filosófica sobre o aprendizado autodirigido
-- Planejamento de uma pós-auto-faculdade
+#### 2. Redes Neurais e Deep Learning
+- Estruturas de redes neurais (MLP, CNNs, RNNs).
+- Frameworks: PyTorch e HuggingFace.
+- Projetos: construção de um classificador de imagens e testes com embeddings.
+
+#### 3. Filosofia da Mente e Ética em IA
+- Consciência, intencionalidade e livre-arbítrio.
+- Problemas filosóficos aplicados à IA.
+- Leituras: textos de David Chalmers, Thomas Metzinger, e papers sobre consciência computacional.
+
+#### 4. Escrita e Comunicação Científica
+- Técnicas de escrita argumentativa.
+- Resumos, ensaios e pequenos artigos.
+- Publicações semanais (blog, GitHub ou Notion).
 
 ---
 
-## 🧭 Objetivos
+### 🧠 Como irei estudar e em quais momentos irei estudá-los
 
-- Desenvolver autonomia intelectual
-- Conectar saberes de forma interdisciplinar
-- Formar pensamento crítico, lógico e criativo
-- Registrar a jornada como um legado de aprendizado
+#### 📅 Rotina semanal planejada
+
+| Dia        | Manhã                | Tarde                       | Noite                            |
+|------------|----------------------|-----------------------------|----------------------------------|
+| Segunda    | Neurociência         | Projeto prático (DL)        | Escrita / Reflexão filosófica    |
+| Terça      | Redes Neurais (teoria) | Programação aplicada        | Leitura filosófica               |
+| Quarta     | Estudo técnico (papers) | Neurociência                | Escrita                          |
+| Quinta     | Projeto em IA        | Revisão geral                | Descanso / Estudo leve           |
+| Sexta      | Filosofia da mente   | Projetos práticos           | Planejamento semanal             |
+| Sábado     | Sessão longa (Deep Work) | Exercício físico mental | Revisão e organização do material |
+| Domingo    | Livre / Revisão opcional | Reflexões e planejamento  | Leitura casual / Descompressão   |
+
+#### 📌 Ferramentas e estratégias
+
+- **Anki** para memorização ativa.
+- **Obsidian/Notion** para registro de insights e síntese de conhecimento.
+- **GitHub** para versionamento de códigos e projetos.
+- **Técnica Pomodoro** para sessões de foco intenso.
 
 ---
+
+**“Estudar é cultivar a si mesmo. A colheita é o próprio pensamento transformado em ação.”**
 
 ## 📁 Organização
 
