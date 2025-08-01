@@ -387,17 +387,137 @@ Seguir em Ordem Decrescente
 
 ##### **Referências Complex Analysis**
 
+1. **[Como aquecimento rever as minhas notas]**
+   - *Como aquecimento rever as minhas notas*
+
+2. **[Reinhold Remmert]**
+   - *Theory of Complex Functions*
+
+3. **[Joseph Bak and Donald J. Newman]**
+   - *Complex Analysis, Third Edition*
+
+4. **[R. H. Dyer and D. E. Edmunds]**
+   - *From Real to Complex Analysis*
+
+5. **[Barry Simon]**
+   - *Basic Complex Analysis (A Comprehensive Course in Analysis)*
+
+6. **[Barry Simon]**
+   - *Advanced Complex Analysis (A Comprehensive Course in Analysis)*
+
 ##### **Referências Measure and Integration**
+
+1. **[Como aquecimento rever as minhas notas]**
+   - *Como aquecimento rever as minhas notas*
+
+2. **[Carlos Augusto Sholl Isnard]**
+   - *Introdução à Medida e Integração*
+
+3. **[G. B. Folland]**
+   - *Real Analysis*
+
+4. **[Robert Bartle]**
+   - *The Elements of Integration and Lebesgue Measure*
+
+5. **[Oswaldo Rio Branco]**
+   - *Notas de Medida e Integracao*
+
+6. **[Barry Simon]**
+   - *A Comprehensive Course in Analysis*
 
 ##### **Referências Topology**
 
+1. **[Como aquecimento rever as minhas notas]**
+   - *Como aquecimento rever as minhas notas*
+
+2. **[James Munkres]**
+   - *Topology*
+
+3. **[G. B. Folland]**
+   - *Real Analysis*
+
+4. **[Barry Simon]**
+   - *A Comprehensive Course in Analysis*
+
 ##### **Referências Classical Vectorial Analysis**
+
+1. **[Como aquecimento rever as minhas notas]**
+   - *Como aquecimento rever as minhas notas*
+
+2. **[Paulo Cordaro]**
+   - *Notas de Calculo Integral*
+
+3. **[Felipe Acker]**
+   - *Calculo Vetorial Classico*
+
+4. **[Antonio Galbis and Manuel Maestre]**
+   - *Vector Analysis Versus Vector Calculus*
+
+5. **[Elon Lages]**
+   - *Curso de Analise Vol.2*
+
+6. **[Barry Simon]**
+   - *A Comprehensive Course in Analysis*
 
 ##### **Referências PDE**
 
+1. **[Como aquecimento rever as minhas notas]**
+   - *Como aquecimento rever as minhas notas*
+
+2. **[Peter J. Olver]**
+   - *Introduction to Partial Differential Equations*
+
+3. **[David Borthwick]**
+   - *Introduction to Partial Differential Equations*
+
+4. **[Lawrence C. Evans]**
+   - *Partial Differential Equations*
+
+5. **[Michael Demuth]**
+   - *Partial Differential Equations and Spectral Theory*
+
 ##### **Referências Functional Analysis**
 
+1. **[Como aquecimento rever as minhas notas]**
+   - *Como aquecimento rever as minhas notas*
+
+2. **[Daniel Marinho Pellegrino, Eduardo Vasconcelos Teixeira, Geraldo Márcio de Azevedo Botelho]**
+   - *Fundamentos de Análise Funcional*
+
+3. **[César R. de Oliveira]**
+   - *Introdução à Análise Funcional*
+
+4. **[J. B. Conway]**
+   - *A Course in Functional Analysis*
+
+5. **[Manfred Einsiedler and Thomas Ward]**
+   - *Functional Analysis, Spectral Theory, and Applications*
+
+6. **[A. A. Kirillov and A. D. Gvishiani]**
+   - *Theorems and Problems in Functional Analysis*
+
+7. **[Joachim Weidmann]**
+   - *Linear Operator in Hilbert Spaces*
+
 ##### **Referências Spectral Theory**
+
+1. **[Como aquecimento rever as minhas notas]**
+   - *Como aquecimento rever as minhas notas*
+
+2. **[M. Reed and B. Simon]**
+   - *Spectral Theory of Self-Adjoint Operators*
+
+3. **[Carlos S. Kubrusly]**
+   - *Spectral Theory of Operators on Hilbert Space*
+
+4. **[Joachim Weidmann]**
+   - *Linear Operators in Hilbert Space*
+
+5. **[César R. Oliveira]**
+   - *Intermediate Spectral Theory and Quantum Dynamics*
+
+6. **[Paulo Cordaro e Toscano]**
+   - *Topicos de Analise Funcional*
 
 ## 🧠 Como irei estudar e em quais momentos irei estudá-los
 
