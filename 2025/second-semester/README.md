@@ -1,15 +1,23 @@
 # 📆 Segundo Semestre de 2025
 
+   **“Estudar é cultivar a si mesmo. A colheita é o próprio pensamento transformado em ação.”**
+
 ## 🔄 **Feedback do semestre anterior**
-O primeiro semestre de 2025 trouxe aprendizados importantes, especialmente no desenvolvimento da autodisciplina e na organização dos materiais de estudo. 
 
 ✅ Pontos positivos:
-- Melhoria na constância dos estudos.
-- Progresso sólido em fundamentos matemáticos e programação.
+- Iniciei o MBA.
+- Fiz o exame de JLPT N1.
 
 ⚠️ Pontos a melhorar:
-- Melhor equilíbrio entre teoria e prática.
-- Planejamento semanal mais claro e adaptável.
+- Meus habitos na rotina, pois fiquei, praticamente, o semestre inteirinho em condicoes ruins para seguir a rotina.
+- Falta de sono
+- Falta de exercicio fisico aerobico
+- Falta de motivacao nos estudos
+- Falta de consistencia 
+- Estudos nao consistentes rotineiramente
+- Mau estar
+
+### 📈 **Como melhorar no segundo semestre**
 
 ---
 
@@ -541,5 +549,3 @@ Seguir em Ordem Decrescente
 - **Técnica Pomodoro** para sessões de foco intenso.
 
 ---
-
-**“Estudar é cultivar a si mesmo. A colheita é o próprio pensamento transformado em ação.”**
