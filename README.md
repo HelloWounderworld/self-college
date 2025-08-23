@@ -4,7 +4,18 @@ Bem-vindo à minha **Auto-Faculdade** — um plano estruturado de estudos autodi
 
 ---
 
-## 📚 Estrutura Curricular - Abaixo é um exemplo de como sera formado a estrutura.
+## 🌟 Meu Objetivo de Vida
+
+Construir uma trajetória como **pesquisador autônomo**, capaz de conduzir investigações originais e, ao mesmo tempo, desenvolver caminhos financeiros que sustentem minha produção científica de forma independente.  
+
+Quero atuar em áreas de fronteira como **Blockchain, Deep Learning e Data Science**, buscando não apenas compreender suas bases teóricas, mas também propor soluções criativas para **problemas em aberto**.  
+
+Meu propósito é **unir autonomia intelectual e viabilidade prática**, mantendo uma vida dedicada ao pensamento crítico, à inovação e à construção de conhecimento que possa **impactar positivamente o futuro**.
+
+
+    https://github.com/HelloWounderworld/my-search-area/blob/main/math_requisites/algebra/README.md
+
+## 📚 Estrutura Curricular - Exemplo de formação
 
 A auto-faculdade está organizada por **anos acadêmicos** (com dois semestres cada), com disciplinas selecionadas estrategicamente para formar uma base sólida e multidisciplinar.
 
@@ -110,4 +121,3 @@ Este é um projeto pessoal, sem vínculo institucional, mas com o mesmo rigor e 
 ---
 
 **"Educar-se é libertar-se." (Paulo Freire)**
-
