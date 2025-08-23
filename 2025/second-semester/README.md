@@ -18,17 +18,44 @@
 - Mau estar
 
 ### 📈 **Como melhorar no segundo semestre**
+Priorizar o cuidado com minha saúde mental e física, garantindo equilíbrio e bem-estar para manter consistência e constância nos estudos.
 
 ---
 
-## 🎯 **O que eu gostaria de atingir nesse semestre**
+## 📘 Plano Semestral de Estudos & Projetos
 
-- Tentar atingir 900 pontos no TOEIC.
-- Estudar, entender e compreender bem Combinatória, Probabilidade e Estatística aplicadas à Data Science no nível Análise Matemática, ou seja, saber demonstrar todas e deixar intuitivo na minha cabeça.
-- Começar os estudos voltados para certificação em Estatística de primeiro nível (統計検定1級), Matemática para Ciências de Dados Estratégicas (データサイエンス数学ストラテジスト上級) e Matemática para Negócios (ビジネス数学検定1級).
-- Melhorar na aplicação de algoritmos e no uso de bibliotecas Python voltadas para Data Science e Machine Learning.
-- Aprimorar o conhecimento e a utilização do Power BI.
-- Revisar conceitos de Análise Matemática e Álgebra Linear. (Se puder)
+---
+
+### 🚀 Objetivos Principais
+
+#### 🧠 Criar o Sistema de Deep Learning
+- [ ] Reproduzir e adaptar o modelo desenvolvido pela **Universidade de Michigan**  
+  🔗 [CommunityForensics-DeepfakeDet-ViT](https://huggingface.co/buildborderless/CommunityForensics-DeepfakeDet-ViT)  
+- [ ] Evoluir o repositório pessoal, utilizando o modelo acima como base
+  🔗 [fake-image-video-detection](https://github.com/HelloWounderworld/fake-image-video-detection)
+
+---
+
+#### 🌍 Idiomas
+- [ ] Seguir uma **rotina consistente de estudos de inglês** voltada para a prova **TOEFL** do próximo ano.
+
+---
+
+#### 📊 Matemática & Ciência de Dados
+- [ ] Dominar **Combinatória, Probabilidade e Estatística** em nível de **Análise Matemática**  
+  *(foco em demonstrações formais e intuição profunda)*  
+- [ ] Iniciar a preparação para certificações:  
+  - 📈 **統計検定1級 (Estatística - nível 1)**  
+  - 🧮 **データサイエンス数学ストラテジスト上級** (Matemática para Ciência de Dados Estratégica - avançado)  
+  - 💼 **ビジネス数学検定1級** (Matemática para Negócios - nível 1)  
+- [ ] Revisar conteúdos de **Análise Matemática** e **Álgebra Linear** (se puder)
+
+---
+
+#### 💻 Programação & Ferramentas
+- [ ] Melhorar aplicação de algoritmos e uso de **bibliotecas Python** voltadas a **Data Science e Machine Learning**  
+- [ ] Aprimorar o uso e criação de relatórios no **Power BI**
+- [ ] Linux, Docker e Networking
 
 ---
 
@@ -242,25 +269,28 @@ Seguir em Ordem Descrescente das referências que irei consultar ou revisar:
 #### **Referências que irei seguir**
 
 ##### **Referências Linux**
-1. **[Richard Blum, Christine Bresnahan]**
-   - *Linux Command Line and Shell Scripting Bible 3rd Edition and 4th*
+Seguir em ordem crescente, de 1 para ...:
 
-2. **[Christopher Negus]**
-   - *Linux Bible, The Comprehensive Tutorial Resource, 10th Edition*
-
-3. **[Brian Ward]**
-   - *HOW LINUX WORKS, 3rd Edition, What Every Superuser Should Know*
-
-4. **[Alexandru Calcatinge and Julian Balog]**
-   - *Mastering Linux Administration, Take your sysadmin skills to the next level by configuring and maintaining Linux systems*
-
-5. **[Kaiwan N. Billimoria]**
-   - *Linux Kernel Programming, Second Edition, A comprehensive and practical guide to kernel internals, writing modules, and kernel synchronization*
-
-6. **[Linux Professional Institute]**
+1. **[Linux Professional Institute]**
    - *LPIC-1*
 
+2. **[Richard Blum, Christine Bresnahan]**
+   - *Linux Command Line and Shell Scripting Bible 3rd Edition and 4th*
+
+3. **[Christopher Negus]**
+   - *Linux Bible, The Comprehensive Tutorial Resource, 10th Edition*
+
+4. **[Brian Ward]**
+   - *HOW LINUX WORKS, 3rd Edition, What Every Superuser Should Know*
+
+5. **[Alexandru Calcatinge and Julian Balog]**
+   - *Mastering Linux Administration, Take your sysadmin skills to the next level by configuring and maintaining Linux systems*
+
+6. **[Kaiwan N. Billimoria]**
+   - *Linux Kernel Programming, Second Edition, A comprehensive and practical guide to kernel internals, writing modules, and kernel synchronization*
+
 ##### **Referências Algorithm**
+Seguir em ordem crescente, de 1 para ...:
 
 1. **[Robert C. Martin Series]**
    - *Clean Code: A Handbook of Agile Software Craftsmanship*
@@ -278,6 +308,7 @@ Seguir em Ordem Descrescente das referências que irei consultar ou revisar:
    - *Clean Architecture: A Craftsman's Guide to Software Structure and Design*
 
 ##### **Referências Docker**
+Seguir em ordem crescente, de 1 para ...:
 
 1. **[Nigel Poulton]**
    - *Docker Deep Dive May 2024 Zero to Docker in a single book*
@@ -286,6 +317,7 @@ Seguir em Ordem Descrescente das referências que irei consultar ou revisar:
    - *Docker in Practice SECOND EDITION*
 
 ##### **Referências Networking**
+Seguir em ordem crescente, de 1 para ...:
 
 1. **[Douglas E. Comer]**
    - *The Internet Book - Everything You Need to Know about Computer Networking and How the Internet Works, Fifth Edition*
@@ -330,216 +362,158 @@ Seguir em Ordem Decrescente
 #### **Referências que irei seguir**
 
 ##### **Referências Linear Algebra**
+Seguir em ordem crescente, de 1 para ...:
 
 1. **[Como aquecimento rever as minhas notas]**
    - *Como aquecimento rever as minhas notas*
 
-2. **[Steven Roman]**
-   - *Advanced Linear Algebra, Third Edition*
-
-3. **[Peter J. Olver and Chehrzad Shakiban]**
-   - *Applied Linear Algebra, Second Edition*
-
-4. **[Sheldon Axler]**
-   - *Linear Algebra Done Right, Fourth Edition*
-
-5. **[Mario Barone Junior]**
+2. **[Mario Barone Junior, Bloody Mary e Hamilton Prado Bueno]**
    - *Algebra Linear*
-
-6. **[Hamilton Prado Bueno]**
+   - *Algebra Linear*
    - *Algebra Linear, Um segundo curso*
 
-7. **[Bloody Mary]**
-   - *Algebra Linear*
+3. **[Peter J. Olver and Chehrzad Shakiban, Sheldon Axler]**
+   - *Applied Linear Algebra, Second Edition*
+   - *Linear Algebra Done Right, Fourth Edition*
+
+4. **[Steven Roman]**
+   - *Advanced Linear Algebra, Third Edition*
 
 ##### **Referências Real Analysis e Miltidimensional Analysis**
+Seguir em ordem crescente, de 1 para ...:
 
 1. **[Como aquecimento rever as minhas notas]**
    - *Como aquecimento rever as minhas notas*
- 
-2. **[Richard Courant]**
+
+2. **[Cassio Neri e Marco Cabral, Elon Lages e Claus I. Doering]**
+   - *Curso de Analise Real*
+   - *Curso de Analise Vol.1 - Projeto Euclides* 
+   - *Introdução à Análise Matemática na Reta - SBM* 
+
+3. **[Barry Simon, Richard Courant and Syafiq  Johar]**
+   - *Real Analysis: A Comprehensive Course in Analysis, Part 1*
    - *Introduction to Calculus and Analysis, Vol. 1*
+   - *The Big Book of Real Analysis, From  Numbers  to  Measures*
 
-3. **[Richard Courant]**
+4. **[Como aquecimento rever as minhas notas]**
+   - *Como aquecimento rever as minhas notas*
+
+5. **[Ronaldo Freire de Lima, Rolci Cipolatti e Elon Lages]**
+   - *Topologia e Análise no Espaço Rn - SBM*
+   - *Cálculo Avançado - SBM*
+   - *Espaços Métricos - Projecto Euclides*
+
+6. **[Richard Courant]**
    - *Introduction to Calculus and Analysis, Vol. II/1*
-
-4. **[Richard Courant]**
    - *Introduction to Calculus and Analysis, Vol. II/2*
 
-5. **[Cassio Neri e Marco Cabral]**
-   - *Curso de Analise Real*
-
-6. **[Barry Simon]**
-   - *Real Analysis: A Comprehensive Course in Analysis, Part 1*
-
-7. **[Elon Lages]**
-   - *Curso de Analise Vol.1*
-
-8. **[Elon Lages]**
-   - *Curso de Analise Vol.2*
-
-9. **[Sudhir R. Ghorpade, Balmohan V. Limaye]**
+7.  **[Sudhir R. Ghorpade, Balmohan V. Limaye]**
    - *A Course in Multivariable Calculus and Analysis*
 
-10. **[Syafiq Johar]**
-   - *The Big Book of Real Analysis, From Numbers to Measures*
-
-11. **[Livros da SBM]**
-   - *Livros da SBM*
-
-12. **[Terence Tao]**
-   - *Analysis I, Third Edition*
-
-13. **[Luna e Sonia]**
-   - *Calculo V*
-
 ##### **Referências Complex Analysis**
+Seguir em ordem crescente, de 1 para ...:
 
 1. **[Como aquecimento rever as minhas notas]**
    - *Como aquecimento rever as minhas notas*
 
-2. **[Reinhold Remmert]**
-   - *Theory of Complex Functions*
-
-3. **[Joseph Bak and Donald J. Newman]**
+2. **[Joseph Bak and Donald J. Newman, Barry Simon]**
    - *Complex Analysis, Third Edition*
-
-4. **[R. H. Dyer and D. E. Edmunds]**
-   - *From Real to Complex Analysis*
-
-5. **[Barry Simon]**
    - *Basic Complex Analysis (A Comprehensive Course in Analysis)*
 
-6. **[Barry Simon]**
+3. **[Reinhold Remmert]**
+   - *Theory of Complex Functions*
+
+4. **[Barry Simon]**
    - *Advanced Complex Analysis (A Comprehensive Course in Analysis)*
 
 ##### **Referências Measure and Integration**
+Seguir em ordem crescente, de 1 para ...:
 
 1. **[Como aquecimento rever as minhas notas]**
    - *Como aquecimento rever as minhas notas*
 
-2. **[Carlos Augusto Sholl Isnard]**
-   - *Introdução à Medida e Integração*
-
-3. **[G. B. Folland]**
-   - *Real Analysis*
-
-4. **[Robert Bartle]**
+2. **[Carlos Augusto Sholl Isnard, Oswaldo Rio Branco e Robert Bartle]**
+   - *Introdução à Medida e Integração - Projeto Euclides*
+   - *Notas de Medida e Integracao*
    - *The Elements of Integration and Lebesgue Measure*
 
-5. **[Oswaldo Rio Branco]**
-   - *Notas de Medida e Integracao*
-
-6. **[Barry Simon]**
-   - *A Comprehensive Course in Analysis*
-
-##### **Referências Topology**
-
-1. **[Como aquecimento rever as minhas notas]**
-   - *Como aquecimento rever as minhas notas*
-
-2. **[James Munkres]**
-   - *Topology*
-
 3. **[G. B. Folland]**
    - *Real Analysis*
 
-4. **[Barry Simon]**
-   - *A Comprehensive Course in Analysis*
+##### **Referências Topology**
+Seguir em ordem crescente, de 1 para ...:
+
+1. **[Como aquecimento rever as minhas notas]**
+   - *Como aquecimento rever as minhas notas*
+
+2. **[James Munkres and G. B. Folland]**
+   - *Topology*
+   - *Real Analysis*
 
 ##### **Referências Classical Vectorial Analysis**
+Seguir em ordem crescente, de 1 para ...:
 
 1. **[Como aquecimento rever as minhas notas]**
    - *Como aquecimento rever as minhas notas*
 
-2. **[Paulo Cordaro]**
+2. **[Paulo Cordaro, Felipe Acker e Elon Lages]**
    - *Notas de Calculo Integral*
+   - *Calculo Vetorial Classico - SBM*
+   - *Curso de Analise Vol.2 - Project Euclides*
 
-3. **[Felipe Acker]**
-   - *Calculo Vetorial Classico*
-
-4. **[Antonio Galbis and Manuel Maestre]**
-   - *Vector Analysis Versus Vector Calculus*
-
-5. **[Elon Lages]**
-   - *Curso de Analise Vol.2*
-
-6. **[Barry Simon]**
-   - *A Comprehensive Course in Analysis*
-
-##### **Referências PDE**
-
-1. **[Como aquecimento rever as minhas notas]**
-   - *Como aquecimento rever as minhas notas*
-
-2. **[Peter J. Olver]**
-   - *Introduction to Partial Differential Equations*
-
-3. **[David Borthwick]**
-   - *Introduction to Partial Differential Equations*
-
-4. **[Lawrence C. Evans]**
-   - *Partial Differential Equations*
-
-5. **[Michael Demuth]**
-   - *Partial Differential Equations and Spectral Theory*
+3. **[Barry Simon]**
+   - *Harmonic Analysis, A Comprehensive Course in Analysis, Part 3*
 
 ##### **Referências Functional Analysis**
+Seguir em ordem crescente, de 1 para ...:
 
 1. **[Como aquecimento rever as minhas notas]**
    - *Como aquecimento rever as minhas notas*
 
-2. **[Daniel Marinho Pellegrino, Eduardo Vasconcelos Teixeira, Geraldo Márcio de Azevedo Botelho]**
+2. **[Daniel Marinho Pellegrino, Eduardo Vasconcelos Teixeira, Geraldo Márcio de Azevedo Botelho e César R. de Oliveira]**
    - *Fundamentos de Análise Funcional*
-
-3. **[César R. de Oliveira]**
    - *Introdução à Análise Funcional*
 
-4. **[J. B. Conway]**
+3. **[J. B. Conway, Manfred Einsiedler and Thomas Ward and A. A. Kirillov and A. D. Gvishiani]**
    - *A Course in Functional Analysis*
-
-5. **[Manfred Einsiedler and Thomas Ward]**
    - *Functional Analysis, Spectral Theory, and Applications*
-
-6. **[A. A. Kirillov and A. D. Gvishiani]**
    - *Theorems and Problems in Functional Analysis*
 
-7. **[Joachim Weidmann]**
+4. **[Joachim Weidmann]**
    - *Linear Operator in Hilbert Spaces*
 
-##### **Referências Spectral Theory**
+##### **Referências PDE**
+Seguir em ordem crescente, de 1 para ...:
 
 1. **[Como aquecimento rever as minhas notas]**
    - *Como aquecimento rever as minhas notas*
 
-2. **[M. Reed and B. Simon]**
+2. **[Peter J. Olver, David Borthwick and Lawrence C. Evans]**
+   - *Introduction to Partial Differential Equations*
+   - *Introduction to Partial Differential Equations*
+   - *Partial Differential Equations*
+
+3. **[Michael Demuth]**
+   - *Partial Differential Equations and Spectral Theory*
+
+##### **Referências Spectral Theory**
+Seguir em ordem crescente, de 1 para ...:
+
+1. **[Como aquecimento rever as minhas notas e Paulo Cordaro e Toscano]**
+   - *Como aquecimento rever as minhas notas*
+   - *Topicos de Analise Funcional*
+
+2. **[M. Reed and B. Simon, Carlos S. Kubrusly and Joachim Weidmann]**
    - *Spectral Theory of Self-Adjoint Operators*
-
-3. **[Carlos S. Kubrusly]**
    - *Spectral Theory of Operators on Hilbert Space*
-
-4. **[Joachim Weidmann]**
    - *Linear Operators in Hilbert Space*
 
-5. **[César R. Oliveira]**
+3. **[César R. Oliveira]**
    - *Intermediate Spectral Theory and Quantum Dynamics*
-
-6. **[Paulo Cordaro e Toscano]**
-   - *Topicos de Analise Funcional*
 
 ## 🧠 Como irei estudar e em quais momentos irei estudá-los
 
-### 📅 Rotina semanal planejada
-
-| Dia        | Manhã                | Tarde                       | Noite                            |
-|------------|----------------------|-----------------------------|----------------------------------|
-| Segunda    | Neurociência         | Projeto prático (DL)        | Escrita / Reflexão filosófica    |
-| Terça      | Redes Neurais (teoria) | Programação aplicada        | Leitura filosófica               |
-| Quarta     | Estudo técnico (papers) | Neurociência                | Escrita                          |
-| Quinta     | Projeto em IA        | Revisão geral                | Descanso / Estudo leve           |
-| Sexta      | Filosofia da mente   | Projetos práticos           | Planejamento semanal             |
-| Sábado     | Sessão longa (Deep Work) | Exercício físico mental | Revisão e organização do material |
-| Domingo    | Livre / Revisão opcional | Reflexões e planejamento  | Leitura casual / Descompressão   |
+   https://docs.google.com/spreadsheets/d/11jiHzXF_HiyvVwouIZQLCr0adyZ-tZC7W1UoJHFXj80/edit?gid=0#gid=0
 
 ### 📌 Ferramentas e estratégias
 

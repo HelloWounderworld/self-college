@@ -4,7 +4,7 @@ Bem-vindo à minha **Auto-Faculdade** — um plano estruturado de estudos autodi
 
 ---
 
-## 📚 Estrutura Curricular - Abaixo um exemplo de como sera formado a estrutura.
+## 📚 Estrutura Curricular - Abaixo é um exemplo de como sera formado a estrutura.
 
 A auto-faculdade está organizada por **anos acadêmicos** (com dois semestres cada), com disciplinas selecionadas estrategicamente para formar uma base sólida e multidisciplinar.
 
