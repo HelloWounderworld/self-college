@@ -109,7 +109,7 @@ Seguir em Ordem Descrescente das referências que irei citar abaixo
    - *Introduction to Statisticsand Data Analysis, With Exercises, Solutions and Applications in R, Second Edition*
 
 2.  **[Augusto Cezar de Oliveira Morgado, João Bosco Pitombeira, Paulo Cezar Pinto Carvalho, Pedro Fernandez](https://loja.sbm.org.br/analise-combinatoria-e-probabilidade.html)**
-   - *Análise Combinatória e Probabilidade*
+    - *Análise Combinatória e Probabilidade*
 
 3. **[Sheldon Ross](https://mega.nz/file/TT5hlBwA#ApXHCaJYw2FESjqVIpXYgmGKdcLKCKkq3HVRnWRJK_g)**
    - *Probabilidade um Curso Moderno com Aplicações, 8 Ed.*
