@@ -124,7 +124,7 @@ Seguir em Ordem Descrescente das referências que irei citar abaixo
    - *Estatística básica, 9 Ed.*
 
 7.  **[Krishna B. Athreya, Soumendra N. Lahiri](https://mega.nz/file/De5VlZqA#zZiZJx45cVA0VU67XKHFv0PTTP_VwUNL8HW7itttnDo)**
-   - *Measure Theory and Probability Theory*
+    - *Measure Theory and Probability Theory*
 
 ### **3. Leitura sobre Business Intelligence e Prática com Power BI**
 - Conceitos de BI e Data Warehousing
