@@ -37,7 +37,7 @@ Priorizar o cuidado com minha saúde mental e física, garantindo equilíbrio e 
 ---
 
 #### 🌍 Idiomas
-- [ ] Seguir uma **rotina consistente de estudos de inglês** voltada para a prova **TOEFL** do próximo ano.
+- [ ] Seguir uma **rotina consistente de estudos de inglês** voltada para a prova **TOEIC** do próximo ano.
 
 ---
 

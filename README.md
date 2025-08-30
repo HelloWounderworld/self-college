@@ -13,7 +13,9 @@ Quero atuar em áreas de fronteira como **Blockchain, Deep Learning e Data Scien
 Meu propósito é **unir autonomia intelectual e viabilidade prática**, mantendo uma vida dedicada ao pensamento crítico, à inovação e à construção de conhecimento que possa **impactar positivamente o futuro**.
 
 
-    https://github.com/HelloWounderworld/my-search-area/blob/main/math_requisites/algebra/README.md
+    https://github.com/HelloWounderworld/my-search-area.git
+
+    https://github.com/HelloWounderworld/mba-study-guide.git
 
 ## 📚 Estrutura Curricular - Exemplo de formação
 
