@@ -184,7 +184,7 @@ Seguir em Ordem Descrescente das referências que irei consultar ou revisar:
 2. **[Livro: Python Data Science - Chaolemen Borjigin]**
    - *Fonte principal para abordagem estruturada de Python aplicada à Ciência de Dados*
 
-### **5. Linux, Docker e Networking**
+### **[5. Linux, Docker e Networking](https://github.com/HelloWounderworld/my-search-area/tree/main/hacker-skills)**
 - Navegação e Gerenciamento de Sistema
   - Comandos básicos: ls, cd, pwd, cp, mv, rm, touch, mkdir
   - Permissões: chmod, chown, umask
