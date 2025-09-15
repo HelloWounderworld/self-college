@@ -46,8 +46,8 @@ Priorizar o cuidado com minha saúde mental e física, garantindo equilíbrio e 
   *(foco em demonstrações formais e intuição profunda)*  
 - [ ] Iniciar a preparação para certificações:  
   - 📈 **統計検定1級 (Estatística - nível 1)**  
-  - 🧮 **データサイエンス数学ストラテジスト上級** (Matemática para Ciência de Dados Estratégica - avançado)  
-  - 💼 **ビジネス数学検定1級** (Matemática para Negócios - nível 1)  
+  - 🧮 **[AWS Solution Architect](https://github.com/HelloWounderworld/aws-solution-architect)**  
+  - 💼 **[LPIC-1](https://github.com/HelloWounderworld/Linux-Shell-Apache-Master)**  
 - [ ] Revisar conteúdos de **Análise Matemática** e **Álgebra Linear** (se puder)
 
 ---
