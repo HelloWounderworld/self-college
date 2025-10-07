@@ -6,7 +6,7 @@
 
 ✅ Pontos positivos:
 - Iniciei o MBA.
-- Fiz o exame de JLPT N1.
+- Fiz o exame de JLPT N1 e passei.
 
 ⚠️ Pontos a melhorar:
 - Meus habitos na rotina, pois fiquei, praticamente, o semestre inteirinho em condicoes ruins para seguir a rotina.
