@@ -1,4 +1,4 @@
-# 📆 Segundo Semestre de 2025
+# 📆 Primeiro Semestre de 2026
 
    **“Estudar é cultivar a si mesmo. A colheita é o próprio pensamento transformado em ação.”**
 
@@ -6,7 +6,7 @@
 
 ✅ Pontos positivos:
 - Iniciei o MBA.
-- Fiz o exame de JLPT N1.
+- Passei no Exame JPLT N1.
 
 ⚠️ Pontos a melhorar:
 - Meus habitos na rotina, pois fiquei, praticamente, o semestre inteirinho em condicoes ruins para seguir a rotina.
@@ -46,8 +46,6 @@ Priorizar o cuidado com minha saúde mental e física, garantindo equilíbrio e 
   *(foco em demonstrações formais e intuição profunda)*  
 - [ ] Iniciar a preparação para certificações:  
   - 📈 **統計検定1級 (Estatística - nível 1)**  
-  - 🧮 **データサイエンス数学ストラテジスト上級** (Matemática para Ciência de Dados Estratégica - avançado)  
-  - 💼 **ビジネス数学検定1級** (Matemática para Negócios - nível 1)  
 - [ ] Revisar conteúdos de **Análise Matemática** e **Álgebra Linear** (se puder)
 
 ---
@@ -72,22 +70,24 @@ Utilizar as referências English for Everyone. Ler e compreender profundamente, 
 #### **Referências que irei seguir**
 Seguir em Ordem Descrescente das referências que irei citar abaixo
 
-1. **[Rachel Harding](https://mega.nz/file/bOxTkBJC#dBhE_Ys0op285uPmmwA0hQpG8wkC0obUbprz0k2ASZ4)**
+1. Antes de terminar a parte gramatical, obter bastante repertorio de vocabularios lendo os livros em ingles sobre Ciencias de Dados e toda manha fazer uma revisao das palavras e expressoes que eu nao entendi durante a leitura.
+
+2. **[Rachel Harding](https://mega.nz/file/bOxTkBJC#dBhE_Ys0op285uPmmwA0hQpG8wkC0obUbprz0k2ASZ4)**
    - *English For Everyone Course and Practicioner Book Level 1 Beginner*
 
-2. **[Rachel Harding](https://mega.nz/file/qCwHkKLQ#OWtvQqu4v2MVB-4yxBFXjTQsUIQ-X2u8UMoEnQIr5Vo)**
+3. **[Rachel Harding](https://mega.nz/file/qCwHkKLQ#OWtvQqu4v2MVB-4yxBFXjTQsUIQ-X2u8UMoEnQIr5Vo)**
    - *English For Everyone Course and Practicioner Book Level 2 Beginner*
 
-3. **[Rachel Harding](https://mega.nz/folder/qHQH2CKS#IQOpHGU3zbh0wZ2VJz094Q)**
+4. **[Rachel Harding](https://mega.nz/folder/qHQH2CKS#IQOpHGU3zbh0wZ2VJz094Q)**
    - *English For Everyone Course and Practicioner Book Intermediate*
 
-4. **[Rachel Harding](https://mega.nz/folder/ba5wiBab#jM9C61C0EnJy1GecqUDeHA)**
+5. **[Rachel Harding](https://mega.nz/folder/ba5wiBab#jM9C61C0EnJy1GecqUDeHA)**
    - *English For Everyone Course and Practicioner Book Advanced*
 
-5. **[Rachel Harding](https://mega.nz/folder/rToW1ACS#Vy-FUBecUNakklE8rxSXIQ)**
+6. **[Rachel Harding](https://mega.nz/folder/rToW1ACS#Vy-FUBecUNakklE8rxSXIQ)**
    - *English For Everyone Course and Practicioner Book Business Level 1*
 
-6. **[Rachel Harding](https://mega.nz/folder/GDBXnJBQ#Dko45ee-8lDU-JDhEPNDyQ)**
+7. **[Rachel Harding](https://mega.nz/folder/GDBXnJBQ#Dko45ee-8lDU-JDhEPNDyQ)**
    - *English For Everyone Course and Practicioner Book Business Level 2*
 
 ### **2. Combinatória, Pobabilidade e Estatística**
@@ -185,7 +185,7 @@ Seguir em Ordem Dscrescente das referências que irei citar abaixo
    - *Beginning Microsoft Power BI, A Practical Guide to Self-Service Data Analytics, Third Edition 2020*
 
 
-### **5. Linux, Docker e Networking**
+### **[5. Linux, Docker e Networking](https://github.com/HelloWounderworld/my-search-area/tree/main/hacker-skills)**
 - Navegação e Gerenciamento de Sistema
   - Comandos básicos: ls, cd, pwd, cp, mv, rm, touch, mkdir
   - Permissões: chmod, chown, umask
