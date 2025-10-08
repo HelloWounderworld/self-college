@@ -72,22 +72,24 @@ Utilizar as referências English for Everyone. Ler e compreender profundamente, 
 #### **Referências que irei seguir**
 Seguir em Ordem Descrescente das referências que irei citar abaixo
 
-1. **[Rachel Harding](https://mega.nz/file/bOxTkBJC#dBhE_Ys0op285uPmmwA0hQpG8wkC0obUbprz0k2ASZ4)**
+1. Antes de terminar a parte gramatical, obter bastante repertorio de vocabularios lendo os livros em ingles sobre Ciencias de Dados e toda manha fazer uma revisao das palavras e expressoes que eu nao entendi durante a leitura.
+
+2. **[Rachel Harding](https://mega.nz/file/bOxTkBJC#dBhE_Ys0op285uPmmwA0hQpG8wkC0obUbprz0k2ASZ4)**
    - *English For Everyone Course and Practicioner Book Level 1 Beginner*
 
-2. **[Rachel Harding](https://mega.nz/file/qCwHkKLQ#OWtvQqu4v2MVB-4yxBFXjTQsUIQ-X2u8UMoEnQIr5Vo)**
+3. **[Rachel Harding](https://mega.nz/file/qCwHkKLQ#OWtvQqu4v2MVB-4yxBFXjTQsUIQ-X2u8UMoEnQIr5Vo)**
    - *English For Everyone Course and Practicioner Book Level 2 Beginner*
 
-3. **[Rachel Harding](https://mega.nz/folder/qHQH2CKS#IQOpHGU3zbh0wZ2VJz094Q)**
+4. **[Rachel Harding](https://mega.nz/folder/qHQH2CKS#IQOpHGU3zbh0wZ2VJz094Q)**
    - *English For Everyone Course and Practicioner Book Intermediate*
 
-4. **[Rachel Harding](https://mega.nz/folder/ba5wiBab#jM9C61C0EnJy1GecqUDeHA)**
+5. **[Rachel Harding](https://mega.nz/folder/ba5wiBab#jM9C61C0EnJy1GecqUDeHA)**
    - *English For Everyone Course and Practicioner Book Advanced*
 
-5. **[Rachel Harding](https://mega.nz/folder/rToW1ACS#Vy-FUBecUNakklE8rxSXIQ)**
+6. **[Rachel Harding](https://mega.nz/folder/rToW1ACS#Vy-FUBecUNakklE8rxSXIQ)**
    - *English For Everyone Course and Practicioner Book Business Level 1*
 
-6. **[Rachel Harding](https://mega.nz/folder/GDBXnJBQ#Dko45ee-8lDU-JDhEPNDyQ)**
+7. **[Rachel Harding](https://mega.nz/folder/GDBXnJBQ#Dko45ee-8lDU-JDhEPNDyQ)**
    - *English For Everyone Course and Practicioner Book Business Level 2*
 
 ### **2. Combinatória, Pobabilidade e Estatística**
