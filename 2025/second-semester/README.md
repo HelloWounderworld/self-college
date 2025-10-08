@@ -56,6 +56,7 @@ Priorizar o cuidado com minha saúde mental e física, garantindo equilíbrio e 
 - [ ] Melhorar aplicação de algoritmos e uso de **bibliotecas Python** voltadas a **Data Science e Machine Learning**  
 - [ ] Aprimorar o uso e criação de relatórios no **Power BI**
 - [ ] Linux, Docker e Networking
+- [ ] AWS - Soluion Architect Associate Level - Starting with routine study
 
 ---
 
@@ -128,29 +129,7 @@ Seguir em Ordem Descrescente das referências que irei citar abaixo
 7.  **[Krishna B. Athreya, Soumendra N. Lahiri](https://mega.nz/file/De5VlZqA#zZiZJx45cVA0VU67XKHFv0PTTP_VwUNL8HW7itttnDo)**
     - *Measure Theory and Probability Theory*
 
-### **3. Leitura sobre Business Intelligence e Prática com Power BI**
-- Conceitos de BI e Data Warehousing
-- ETL e pipelines de dados
-- Ferramentas de mercado (Power BI, Tableau, Looker)
-- KPIs e indicadores de negócios
-- Importação de dados de múltiplas fontes
-- Limpeza e transformação com Power Query
-- Criação de dashboards interativos
-- Uso de DAX para métricas e cálculos
-
-#### **🎓 Meios de estudo:**
-Utilizarei um repositório pessoal no GitHub e o software Power BI, instalado na minha máquina local.
-
-- git@github.com/HelloWounderworld/mba-power-bi.git
-- https://github.com/HelloWounderworld/mba-data-science-python-tools
-
-#### **Referências que irei seguir**
-Seguir em Ordem Dscrescente das referências que irei citar abaixo
-
-1. **[Dan Clark](https://mega.nz/file/OWwRlRjC#nYgGydOScpYXFt9Oo2956y2OAqUennqavoz7Y1Pwoic)**
-   - *Beginning Microsoft Power BI, A Practical Guide to Self-Service Data Analytics, Third Edition 2020*
-
-### **4. Python para Ciência de Dados**
+### **3. Python para Ciência de Dados**
 - Fundamentos essenciais da linguagem: tipos de dados, estruturas de controle, funções e manipulação de strings
 - Estruturas de dados integradas do Python: listas, tuplas, conjuntos e dicionários
 - Leitura, gravação e manipulação de arquivos com Python
@@ -186,7 +165,7 @@ Seguir em Ordem Descrescente das referências que irei consultar ou revisar:
 2. **[Livro: Python Data Science - Chaolemen Borjigin]**
    - *Fonte principal para abordagem estruturada de Python aplicada à Ciência de Dados*
 
-### **[5. Linux, Docker e Networking](https://github.com/HelloWounderworld/my-search-area/tree/main/hacker-skills)**
+### **[4. Linux, Docker e Networking](https://github.com/HelloWounderworld/my-search-area/tree/main/hacker-skills)**
 - Navegação e Gerenciamento de Sistema
   - Comandos básicos: ls, cd, pwd, cp, mv, rm, touch, mkdir
   - Permissões: chmod, chown, umask
@@ -342,186 +321,12 @@ Seguir em ordem crescente, de 1 para ...:
 7. **[Daniel J. Barrett and Richard E. Silverman]**
    - *SSH, the Secure Shell, The Deﬁnitive Guide*
 
-### **6. Revisão de Análise Matemática e Álgebra Linear**
-Seguir em Ordem Decrescente
-
-- Álgebra Linear
-- Análise Matemática no conjunto dos números reais
-- Análise Matemática em ℝⁿ
-- Análise Complexa
-- Medida e Integração
-- Topologia
-- Análise Vetorial Clássica
-- EDP
-- Functional Analysis
-- Spectral Theory
+### **[5. AWS Solution Architect Associate Level](https://github.com/HelloWounderworld/aws-solution-architect)**
 
 #### **🎓 Meios de estudo:**
-- Minhas notas
-- Livros que eu baixei
-- Resolução de exercícios
+- Livros Recomendados pela referências abaixo
 
 #### **Referências que irei seguir**
 
-##### **Referências Linear Algebra**
-Seguir em ordem crescente, de 1 para ...:
-
-1. **[Como aquecimento rever as minhas notas]**
-   - *Como aquecimento rever as minhas notas*
-
-2. **[Mario Barone Junior, Bloody Mary e Hamilton Prado Bueno]**
-   - *Algebra Linear*
-   - *Algebra Linear*
-   - *Algebra Linear, Um segundo curso*
-
-3. **[Peter J. Olver and Chehrzad Shakiban, Sheldon Axler]**
-   - *Applied Linear Algebra, Second Edition*
-   - *Linear Algebra Done Right, Fourth Edition*
-
-4. **[Steven Roman]**
-   - *Advanced Linear Algebra, Third Edition*
-
-##### **Referências Real Analysis e Miltidimensional Analysis**
-Seguir em ordem crescente, de 1 para ...:
-
-1. **[Como aquecimento rever as minhas notas]**
-   - *Como aquecimento rever as minhas notas*
-
-2. **[Cassio Neri e Marco Cabral, Elon Lages e Claus I. Doering]**
-   - *Curso de Analise Real*
-   - *Curso de Analise Vol.1 - Projeto Euclides* 
-   - *Introdução à Análise Matemática na Reta - SBM* 
-
-3. **[Barry Simon, Richard Courant and Syafiq  Johar]**
-   - *Real Analysis: A Comprehensive Course in Analysis, Part 1*
-   - *Introduction to Calculus and Analysis, Vol. 1*
-   - *The Big Book of Real Analysis, From  Numbers  to  Measures*
-
-4. **[Como aquecimento rever as minhas notas]**
-   - *Como aquecimento rever as minhas notas*
-
-5. **[Ronaldo Freire de Lima, Rolci Cipolatti e Elon Lages]**
-   - *Topologia e Análise no Espaço Rn - SBM*
-   - *Cálculo Avançado - SBM*
-   - *Espaços Métricos - Projecto Euclides*
-
-6. **[Richard Courant]**
-   - *Introduction to Calculus and Analysis, Vol. II/1*
-   - *Introduction to Calculus and Analysis, Vol. II/2*
-
-7.  **[Sudhir R. Ghorpade, Balmohan V. Limaye]**
-   - *A Course in Multivariable Calculus and Analysis*
-
-##### **Referências Complex Analysis**
-Seguir em ordem crescente, de 1 para ...:
-
-1. **[Como aquecimento rever as minhas notas]**
-   - *Como aquecimento rever as minhas notas*
-
-2. **[Joseph Bak and Donald J. Newman, Barry Simon]**
-   - *Complex Analysis, Third Edition*
-   - *Basic Complex Analysis (A Comprehensive Course in Analysis)*
-
-3. **[Reinhold Remmert]**
-   - *Theory of Complex Functions*
-
-4. **[Barry Simon]**
-   - *Advanced Complex Analysis (A Comprehensive Course in Analysis)*
-
-##### **Referências Measure and Integration**
-Seguir em ordem crescente, de 1 para ...:
-
-1. **[Como aquecimento rever as minhas notas]**
-   - *Como aquecimento rever as minhas notas*
-
-2. **[Carlos Augusto Sholl Isnard, Oswaldo Rio Branco e Robert Bartle]**
-   - *Introdução à Medida e Integração - Projeto Euclides*
-   - *Notas de Medida e Integracao*
-   - *The Elements of Integration and Lebesgue Measure*
-
-3. **[G. B. Folland]**
-   - *Real Analysis*
-
-##### **Referências Topology**
-Seguir em ordem crescente, de 1 para ...:
-
-1. **[Como aquecimento rever as minhas notas]**
-   - *Como aquecimento rever as minhas notas*
-
-2. **[James Munkres and G. B. Folland]**
-   - *Topology*
-   - *Real Analysis*
-
-##### **Referências Classical Vectorial Analysis**
-Seguir em ordem crescente, de 1 para ...:
-
-1. **[Como aquecimento rever as minhas notas]**
-   - *Como aquecimento rever as minhas notas*
-
-2. **[Paulo Cordaro, Felipe Acker e Elon Lages]**
-   - *Notas de Calculo Integral*
-   - *Calculo Vetorial Classico - SBM*
-   - *Curso de Analise Vol.2 - Project Euclides*
-
-3. **[Barry Simon]**
-   - *Harmonic Analysis, A Comprehensive Course in Analysis, Part 3*
-
-##### **Referências Functional Analysis**
-Seguir em ordem crescente, de 1 para ...:
-
-1. **[Como aquecimento rever as minhas notas]**
-   - *Como aquecimento rever as minhas notas*
-
-2. **[Daniel Marinho Pellegrino, Eduardo Vasconcelos Teixeira, Geraldo Márcio de Azevedo Botelho e César R. de Oliveira]**
-   - *Fundamentos de Análise Funcional*
-   - *Introdução à Análise Funcional*
-
-3. **[J. B. Conway, Manfred Einsiedler and Thomas Ward and A. A. Kirillov and A. D. Gvishiani]**
-   - *A Course in Functional Analysis*
-   - *Functional Analysis, Spectral Theory, and Applications*
-   - *Theorems and Problems in Functional Analysis*
-
-4. **[Joachim Weidmann]**
-   - *Linear Operator in Hilbert Spaces*
-
-##### **Referências PDE**
-Seguir em ordem crescente, de 1 para ...:
-
-1. **[Como aquecimento rever as minhas notas]**
-   - *Como aquecimento rever as minhas notas*
-
-2. **[Peter J. Olver, David Borthwick and Lawrence C. Evans]**
-   - *Introduction to Partial Differential Equations*
-   - *Introduction to Partial Differential Equations*
-   - *Partial Differential Equations*
-
-3. **[Michael Demuth]**
-   - *Partial Differential Equations and Spectral Theory*
-
-##### **Referências Spectral Theory**
-Seguir em ordem crescente, de 1 para ...:
-
-1. **[Como aquecimento rever as minhas notas e Paulo Cordaro e Toscano]**
-   - *Como aquecimento rever as minhas notas*
-   - *Topicos de Analise Funcional*
-
-2. **[M. Reed and B. Simon, Carlos S. Kubrusly and Joachim Weidmann]**
-   - *Spectral Theory of Self-Adjoint Operators*
-   - *Spectral Theory of Operators on Hilbert Space*
-   - *Linear Operators in Hilbert Space*
-
-3. **[César R. Oliveira]**
-   - *Intermediate Spectral Theory and Quantum Dynamics*
-
-## 🧠 Como irei estudar e em quais momentos irei estudá-los
-
-   https://docs.google.com/spreadsheets/d/11jiHzXF_HiyvVwouIZQLCr0adyZ-tZC7W1UoJHFXj80/edit?gid=0#gid=0
-
-### 📌 Ferramentas e estratégias
-
-- **Anki** para memorização ativa.
-- **Obsidian/Notion** para registro de insights e síntese de conhecimento.
-- **GitHub** para versionamento de códigos e projetos.
-- **Técnica Pomodoro** para sessões de foco intenso.
-
----
+1. **[Ben Piper, David Clinton]**
+   - *AWS Certified Solutions Architect Study Guide Associate (SAA- C03) Exam, Fourth Edition*

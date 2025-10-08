@@ -126,29 +126,7 @@ Seguir em Ordem Descrescente das referências que irei citar abaixo
 7.  **[Krishna B. Athreya, Soumendra N. Lahiri](https://mega.nz/file/De5VlZqA#zZiZJx45cVA0VU67XKHFv0PTTP_VwUNL8HW7itttnDo)**
    - *Measure Theory and Probability Theory*
 
-### **3. Leitura sobre Business Intelligence e Prática com Power BI**
-- Conceitos de BI e Data Warehousing
-- ETL e pipelines de dados
-- Ferramentas de mercado (Power BI, Tableau, Looker)
-- KPIs e indicadores de negócios
-- Importação de dados de múltiplas fontes
-- Limpeza e transformação com Power Query
-- Criação de dashboards interativos
-- Uso de DAX para métricas e cálculos
-
-#### **🎓 Meios de estudo:**
-Utilizarei um repositório pessoal no GitHub e o software Power BI, instalado na minha máquina local.
-
-- git@github.com/HelloWounderworld/mba-power-bi.git
-- https://github.com/HelloWounderworld/mba-data-science-python-tools
-
-#### **Referências que irei seguir**
-Seguir em Ordem Dscrescente das referências que irei citar abaixo
-
-1. **[Dan Clark](https://mega.nz/file/OWwRlRjC#nYgGydOScpYXFt9Oo2956y2OAqUennqavoz7Y1Pwoic)**
-   - *Beginning Microsoft Power BI, A Practical Guide to Self-Service Data Analytics, Third Edition 2020*
-
-### **4. Python para Ciência de Dados**
+### **3. Python para Ciência de Dados**
 - Fundamentos essenciais da linguagem: tipos de dados, estruturas de controle, funções e manipulação de strings
 - Estruturas de dados integradas do Python: listas, tuplas, conjuntos e dicionários
 - Leitura, gravação e manipulação de arquivos com Python
@@ -183,6 +161,29 @@ Seguir em Ordem Descrescente das referências que irei consultar ou revisar:
 
 2. **[Livro: Python Data Science - Chaolemen Borjigin]**
    - *Fonte principal para abordagem estruturada de Python aplicada à Ciência de Dados*
+
+### **4. Leitura sobre Business Intelligence e Prática com Power BI**
+- Conceitos de BI e Data Warehousing
+- ETL e pipelines de dados
+- Ferramentas de mercado (Power BI, Tableau, Looker)
+- KPIs e indicadores de negócios
+- Importação de dados de múltiplas fontes
+- Limpeza e transformação com Power Query
+- Criação de dashboards interativos
+- Uso de DAX para métricas e cálculos
+
+#### **🎓 Meios de estudo:**
+Utilizarei um repositório pessoal no GitHub e o software Power BI, instalado na minha máquina local.
+
+- git@github.com/HelloWounderworld/mba-power-bi.git
+- https://github.com/HelloWounderworld/mba-data-science-python-tools
+
+#### **Referências que irei seguir**
+Seguir em Ordem Dscrescente das referências que irei citar abaixo
+
+1. **[Dan Clark](https://mega.nz/file/OWwRlRjC#nYgGydOScpYXFt9Oo2956y2OAqUennqavoz7Y1Pwoic)**
+   - *Beginning Microsoft Power BI, A Practical Guide to Self-Service Data Analytics, Third Edition 2020*
+
 
 ### **5. Linux, Docker e Networking**
 - Navegação e Gerenciamento de Sistema
