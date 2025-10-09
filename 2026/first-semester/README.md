@@ -114,16 +114,19 @@ Seguir em Ordem Descrescente das referências que irei citar abaixo
 3. **[Sheldon Ross](https://mega.nz/file/TT5hlBwA#ApXHCaJYw2FESjqVIpXYgmGKdcLKCKkq3HVRnWRJK_g)**
    - *Probabilidade um Curso Moderno com Aplicações, 8 Ed.*
 
-4. **[Larry Wassennan](https://mega.nz/file/eOph0SBB#UkLMBbPnUE52-ExdS2leKHxMAuSM2XqBb8quFQSxkoY)**
+4. **[Carlos Fernandez-Granda](https://mega.nz/file/reoEQA7Z#4mXolwTrNIoAvGeS6PSYblpA89Yp4q8hS_6MGWb10d8)** 
+   - *Probability and Statistics for Data Science*
+
+5. **[Larry Wassennan](https://mega.nz/file/eOph0SBB#UkLMBbPnUE52-ExdS2leKHxMAuSM2XqBb8quFQSxkoY)**
    - *All of Statistics, A Concise Course in Statistical Inference*
 
-5. **[Heleno Bolfarine, Monica Carneiro Sandoval](https://mega.nz/file/LGQiiC7Y#WAzCDU5hY0hHNha19JfwzFESHn0KsGkt7h3FJiFZvoM)**
+6. **[Heleno Bolfarine, Monica Carneiro Sandoval](https://mega.nz/file/LGQiiC7Y#WAzCDU5hY0hHNha19JfwzFESHn0KsGkt7h3FJiFZvoM)**
    - *INTRODUÇÃO À INFERÊNCIA ESTATÍSTICA*
   
-6. **[Pedro A. Morettin (Autor), Wilton de O. Bussab](https://mega.nz/folder/qaJFFYJS#QA9fJrSpWueWNuPM4e1Srg)**
+7. **[Pedro A. Morettin (Autor), Wilton de O. Bussab](https://mega.nz/folder/qaJFFYJS#QA9fJrSpWueWNuPM4e1Srg)**
    - *Estatística básica, 9 Ed.*
 
-7.  **[Krishna B. Athreya, Soumendra N. Lahiri](https://mega.nz/file/De5VlZqA#zZiZJx45cVA0VU67XKHFv0PTTP_VwUNL8HW7itttnDo)**
+8.  **[Krishna B. Athreya, Soumendra N. Lahiri](https://mega.nz/file/De5VlZqA#zZiZJx45cVA0VU67XKHFv0PTTP_VwUNL8HW7itttnDo)**
    - *Measure Theory and Probability Theory*
 
 ### **3. Python para Ciência de Dados**
