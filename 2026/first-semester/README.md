@@ -171,6 +171,9 @@ Seguir em Ordem Descrescente das referências que irei consultar ou revisar:
 4. **[Prof. Vijay Janapa Reddi]**
    - *Machine Learning Systems, Principles and Practices of Engineering Artificially IntelligentSystems*
 
+5. **[Vladimir G. Pestov]**
+   - *Elementos da Teoria de Aprendizagem de Máquina Supervisionada*
+
 ### **4. Leitura sobre Business Intelligence e Prática com Power BI**
 - Conceitos de BI e Data Warehousing
 - ETL e pipelines de dados

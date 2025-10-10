@@ -174,6 +174,9 @@ Seguir em Ordem Descrescente das referências que irei consultar ou revisar:
 4. **[Prof. Vijay Janapa Reddi]**
    - *Machine Learning Systems, Principles and Practices of Engineering Artificially IntelligentSystems*
 
+5. **[Vladimir G. Pestov]**
+   - *Elementos da Teoria de Aprendizagem de Máquina Supervisionada*
+
 ### **[4. Linux, Docker e Networking](https://github.com/HelloWounderworld/my-search-area/tree/main/hacker-skills)**
 - Navegação e Gerenciamento de Sistema
   - Comandos básicos: ls, cd, pwd, cp, mv, rm, touch, mkdir
