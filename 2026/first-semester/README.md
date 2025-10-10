@@ -159,11 +159,17 @@ Ferramentas utilizadas:
 #### **Referências que irei seguir**
 Seguir em Ordem Descrescente das referências que irei consultar ou revisar:
 
-1. **[Livro: Python for Data Science – A. Lakshmi Muddana & Sandhya Vinayakam]**
-   - *Fonte principal para abordagem estruturada de Python aplicada à Ciência de Dados*
+1. **[A. Lakshmi Muddana & Sandhya Vinayakam]**
+   - *Python for Data Science*
 
-2. **[Livro: Python Data Science - Chaolemen Borjigin]**
-   - *Fonte principal para abordagem estruturada de Python aplicada à Ciência de Dados*
+2. **[Chaolemen Borjigin]**
+   - *Python Data Science*
+
+3. **[Amin Zollanvari]**
+   - *Machine Learning with Python - Theory and Implementation*
+
+4. **[Prof. Vijay Janapa Reddi]**
+   - *Machine Learning Systems, Principles and Practices of Engineering Artificially IntelligentSystems*
 
 ### **4. Leitura sobre Business Intelligence e Prática com Power BI**
 - Conceitos de BI e Data Warehousing
